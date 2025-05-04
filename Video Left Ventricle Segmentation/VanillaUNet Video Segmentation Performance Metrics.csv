@@ -1,0 +1,8 @@
+Metric,Mean Average
+Inference Time (s),1.1460000000000001
+Average Memory Usage (MB),897.3399999999999
+Peak Memory Usage (MB),897.3520000000001
+Average CPU Usage (%),50.769999999999996
+Peak CPU Usage (%),55.48
+Average GPU Usage (%),1.37
+Peak GPU Usage (%),1.37
